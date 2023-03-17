@@ -2,6 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
+/* check the random number is a positive, a negative or a zero */
 int main(void)
 {
 	int n;
