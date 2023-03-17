@@ -4,7 +4,8 @@
 /**
  * main - Entry point
  * Print the last digit of a randomly generated number
- * check if the last digit of a random number is greater than 5, 0 or less than 6 and nt 0
+ * check if the last digit of a random number is greater 
+ * than 5, 0 or less than 6 and nt 0
  * Return: Always 0 (Success)
  */
 int main(void)
