@@ -2,7 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 
-/* check the random number is a positive, a negative or a zero */
+/**
+ * main - Entry point
+ * check if the generated number is a positive, a negative or a zero
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 	int n;
