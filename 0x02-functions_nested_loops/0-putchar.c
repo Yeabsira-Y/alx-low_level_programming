@@ -1,18 +1,20 @@
-#include "main.h"
+ #include <stdio.h>
 /**
- * main - main function
- * Return: 0 (Success)
+ * main - main block
+ * Write a program that prints _putchar, 
+ * followed by a new line.
+ * Return: 0
  */
 int main(void)
 {
-	char abe[] = "_putchar";
-
-	int c;
-
-	for (c = 0; c < 8; c++)
-	{
-		_putchar(abe[c]);
-	}
-	_putchar('\n');
-	return (0);
+    int i;
+    char str[] = "_putchar";
+    
+    for (i = 0; str[i] != '\0'; i++) {
+        putchar(str[i]);
+    }
+    
+    putchar('\n');
+    
+    return 0;
 }
