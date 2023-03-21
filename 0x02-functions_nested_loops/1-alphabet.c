@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - main block
- * Write a function that prints the alphabet, in lowercase, followed by a new line
- * Return: 0.
+ * print_alphabet - check the code for ALX School students.
+ *
+ * Return: Always 0.
  */
 void print_alphabet(void)
 {
