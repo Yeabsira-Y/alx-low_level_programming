@@ -2,14 +2,10 @@
 #include "main.h"
 
 /**
- * print_to_98 -  prints natural numbers from n to 98,
- *
- * Description: when the function get called it prints numbers to 98
- *
- * Return: void
- *
+ * print_to_98 - prints all natural numbers from n to 98,
+ * followed by a new line
+ * @n: print from this number
  */
-
 void print_to_98(int n)
 {
 	if (n == 98)
