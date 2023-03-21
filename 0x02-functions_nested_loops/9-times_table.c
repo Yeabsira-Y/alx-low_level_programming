@@ -11,11 +11,11 @@
 
 int main(void)
 {
-    times_table();
+    time_table();
     return (0);
 }
 
-void times_table(void)
+void time_table(void)
 {
 	int i, j;
 	int mul;
