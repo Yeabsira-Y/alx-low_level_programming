@@ -6,8 +6,6 @@
  *
  * Description: when the function get called it prints numbers to 98
  *
- * @n: starting number
- *
  * Return: void
  *
  */
