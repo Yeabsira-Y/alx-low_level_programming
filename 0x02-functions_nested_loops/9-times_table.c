@@ -9,13 +9,7 @@
  *
  */
 
-int main()
-{
-    time_table();
-    return (0);
-}
-
-void time_table(void)
+void times_table(void)
 {
 	int i, j;
 	int mul;
