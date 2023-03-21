@@ -9,7 +9,7 @@
  *
  */
 
-int main(void)
+int main()
 {
     time_table();
     return (0);
